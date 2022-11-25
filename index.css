@@ -12,7 +12,8 @@
     text-align: center;
 
 }
-span{
+.span{
     color: azure;
+    text-decoration: double;
     text-align: center;
 }
